@@ -2,7 +2,7 @@
 
 **Gas Find** is a **full-stack web application** built with the **MERN stack (MongoDB, Express, React, Node.js)**. It allows users to **locate nearby gas stations**, **compare fuel prices** (Gazoil and Essence), and get **directions to the cheapest or nearest station**. Users can explore a **list view** or **interactive map view**, both powered by real-time geolocation.
 
-> 🛠️ Project Repository: [github.com/youssefamjad1/ar5ascarburant](https://github.com/youssefamjad1/ar5ascarburant)
+> 🛠️ Project Repository: [github.com/youssefamjad1/ar5ascarburant](https://github.com/youssefamjad1/GasFind)
 
 ---
 
